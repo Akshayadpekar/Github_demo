@@ -1,2 +1,1 @@
 This is the practise class
-command
